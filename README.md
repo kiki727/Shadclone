@@ -1,1 +1,1 @@
-Shad ui simple scc clone
+Shad ui simple css clone
